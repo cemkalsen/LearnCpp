@@ -1,0 +1,16 @@
+﻿  Scanning sources for module dependencies...
+  Deck.h
+C:\Users\user\source\repos\BlackjackGame\Deck.h(5,1203775549): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Compiling...
+  Deck.h
+C:\Users\user\source\repos\BlackjackGame\Deck.h(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Card.cpp
+C:\Users\user\source\repos\BlackjackGame\Card.cpp(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Deck.cpp
+C:\Users\user\source\repos\BlackjackGame\Deck.h(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+C:\Users\user\source\repos\BlackjackGame\Deck.h(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Player.cpp
+C:\Users\user\source\repos\BlackjackGame\Deck.h(5,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  BlackjackGame.vcxproj -> C:\Users\user\source\repos\BlackjackGame\x64\Debug\BlackjackGame.exe
